@@ -1,1 +1,1 @@
-# TGIH-bubble-sort
+# Sorting Visualizer
